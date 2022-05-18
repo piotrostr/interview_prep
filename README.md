@@ -38,6 +38,11 @@
 
 Remember to make notes as you are doing the interview.
 
+- reflect and measure success
+  - send out post event surveys to attendies
+  - check if everything stayed within budget
+  - check the number of attendees
+
 ## STAR method 
 
 use the STAR method for open ended questions
