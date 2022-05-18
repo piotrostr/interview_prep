@@ -12,33 +12,35 @@
 
 ## Interview Guide
 
-1. Set up the problem
+- don't speak straight away
+- take some time to think through the problem,
+- do not think superficially
 
-   - don't speak straight away
-   - take some time to think through the problem,
-   - do not think superficially
+- clarify, ask questions get to the root of the problem
 
-   - clarify, ask questions get to the root of the problem
+  - _"What is the budget"?_
+  - _"How many people are invited?"_
+  - _"Where is it going to take place?"_
+  - ...
 
-     - What is the budget?
-     - How many people are invited?
-     - Where is it going to take place?
+- state any assumptions
 
-   - state any assumptions
+  - _"I will assume there will be a facilities team to help"_
+  - _"I will also assume the budget will be $xxxxK"_
+  - ...
 
-     - I will assume there will be a facilities team to help
-     - I will also assume the budget will be $xxxxK
+- work through the problem
 
-2. Walk through your approach
+  - _"Since the objective is to welcome new Googlers to the office, 
+    I would ensure that I'm inclusive of all googlers in my planning
+    and bring in local food vendors, find fun activities for noogles
+    and their families to do."_
 
-   - answer the question,
-   - don't tell the solution but go through the steps
-     think of it like a math problem where you go thorugh each of the steps
+Remember to make notes as you are doing the interview.
 
-3. make notes as you are doing the interview
-4. use the STAR method for open ended questions
+## STAR method 
 
-## STAR method
+use the STAR method for open ended questions
 
 - Situation
 - Task
