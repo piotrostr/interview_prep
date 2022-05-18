@@ -12,12 +12,22 @@
 
 ## Interview Guide
 
-1. Take some time to think through the problem, don't speak straight away.
+1. Set up the problem
+
+   - don't speak straight away
+   - take some time to think through the problem,
+   - do not think superficially
 
    - clarify, ask questions get to the root of the problem
-   - do not think superficially
-   - follow up questions are very important
+
+     - What is the budget?
+     - How many people are invited?
+     - Where is it going to take place?
+
    - state any assumptions
+
+     - I will assume there will be a facilities team to help
+     - I will also assume the budget will be $xxxxK
 
 2. Walk through your approach
 
