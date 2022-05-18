@@ -30,15 +30,11 @@
 
 ## STAR method
 
-Situation
-
-Task
-
-Action
-
-Result
-
-Reflection (optional but nice)
+- Situation
+- Task
+- Action
+- Result
+- Reflection (optional but nice)
 
 ## Schedule
 
