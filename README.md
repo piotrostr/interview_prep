@@ -1,5 +1,7 @@
 # Interview Preparation
 
+## Resources
+
 - webtech - self selected area of expertise
 
 - prep guide from the email
@@ -9,6 +11,14 @@
 - past experience where I have shown leadership, how I influenced others
 
 - group prep sessions, have a look at the link, no need to attend both
+
+## Candidate evaluation criteria
+
+<img 
+   width="861"
+   alt="criteria"
+   src="https://user-images.githubusercontent.com/63755291/169093616-374b641d-900a-4434-8491-f52dfcb55679.png" 
+/>
 
 ## Interview Guide
 
@@ -42,6 +52,8 @@ Remember to make notes as you are doing the interview.
   - send out post event surveys to attendies
   - check if everything stayed within budget
   - check the number of attendees
+
+Incorporate any feedback/hints from probing questions.
 
 ## STAR method 
 
