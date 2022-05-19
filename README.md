@@ -35,8 +35,9 @@
 
 Questions could involve:
 
-- How would you plan a hackathon at your school?
-- How would you organise an opening of a new office for Googlers?
+- _"How would you plan a hackathon at your school?"_
+- _"How would you organise an opening of a new office for Googlers?"_
+- ...
 
 General tips:
 
