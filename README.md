@@ -86,6 +86,8 @@ use the STAR method for open ended questions
 - Result
 - Reflection (optional but nice)
 
+it is best described with examples in the interview preparation pdf
+
 ## Schedule
 
 Interview process takes 6 to 8 weeks, first step of the
