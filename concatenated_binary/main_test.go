@@ -2,6 +2,8 @@ package main
 
 import (
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestConcatenatedBinary(t *testing.T) {
@@ -14,8 +16,7 @@ func TestConcatenatedBinary(t *testing.T) {
 	}
 	for _, c := range cases {
 		if got := ConcatenatedBinary(c.in); got != c.want {
-			msg := "ConcatenatedBinary(%d) == %d, want %d"
-			t.Errorf(msg, c.in, got, c.want)
+			assert.Equal(t, c.want, got)
 		}
 	}
 }
