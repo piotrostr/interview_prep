@@ -6,8 +6,15 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
+func TestValidParenthesesCaseOne(t *testing.T) {
+	assert.True(t, validateParenthesis("()"))
+	assert.True(t, validateParenthesis("()"))
+	assert.True(t, validateParenthesis("(()())"))
+	assert.False(t, validateParenthesis("(()))"))
+}
+
 func TestGenerateParenthesesCaseOne(t *testing.T) {
-	want := []string{"()()()", "(())()", "()(())", "((()))"}
+	want := []string{"((()))", "(()())", "(())()", "()(())", "()()()"}
 	assert.Equal(t, want, generateParenthesis(3))
 }
 
