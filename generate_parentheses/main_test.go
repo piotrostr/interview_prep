@@ -7,25 +7,25 @@ import (
 )
 
 func TestValidParenthesesCaseOne(t *testing.T) {
-	assert.True(t, validateParenthesis("()"))
-	assert.True(t, validateParenthesis("()"))
-	assert.True(t, validateParenthesis("(()())"))
-	assert.False(t, validateParenthesis("(()))"))
+	assert.True(t, ValidateParentheses("()"))
+	assert.True(t, ValidateParentheses("()"))
+	assert.True(t, ValidateParentheses("(()())"))
+	assert.False(t, ValidateParentheses("(()))"))
 }
 
 func TestGenerateParenthesesCaseOne(t *testing.T) {
 	want := []string{"((()))", "(()())", "(())()", "()(())", "()()()"}
-	assert.Equal(t, want, generateParenthesis(3))
+	assert.Equal(t, want, generateParentheses(3))
 }
 
 func TestGenerateParenthesesCaseTwo(t *testing.T) {
 	want := []string{"()"}
-	assert.Equal(t, want, generateParenthesis(1))
+	assert.Equal(t, want, generateParentheses(1))
 }
 
 func TestGenerateParenthesesCaseThree(t *testing.T) {
 	want := []string{"(())", "()()"}
-	assert.Equal(t, want, generateParenthesis(2))
+	assert.Equal(t, want, generateParentheses(2))
 }
 
 // thank god for github copilot
