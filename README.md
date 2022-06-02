@@ -14,4 +14,4 @@
 
 ## Questions
 
-- [Generate Parentheses (Backtracking)](https://github.com/piotrostr/interview-prep/master/generate_parentheses)
+- [Generate Parentheses (Backtracking)](https://github.com/piotrostr/interview-prep/blob/master/src/generate_parentheses)
